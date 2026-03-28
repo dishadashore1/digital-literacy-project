@@ -1,7 +1,7 @@
 # Digital Literacy Project
 
 ## Name: Disha Dashore
-## Registration Number: (write your reg no)
+## Registration Number: 25BAI10444
 ## Course: CSE0001 – Digital Literacy
 
 ---
